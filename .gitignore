@@ -1,0 +1,41 @@
+# Ignorar archivos y carpetas generados por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+
+# Ignorar archivos de caché y logs generados por Unity
+*.log
+*.booproj
+*.svd
+*.userprefs
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.DS_Store
+
+# Ignorar carpetas específicas de Visual Studio
+/[Vv]isual[Ss]tudio[Aa]utoSave/
+
+# Ignorar archivos de configuración de Rider
+.idea/
+
+# Ignorar archivos de configuración específicos de Unity
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/UnityConnectSettings.asset
+
+# Ignorar caché de compilación de Mono
+Library/ScriptAssemblies/
+
+# Ignorar archivos de caché de Rider
+.idea/
+
+# Ignorar archivos de caché de Visual Studio Code
+.vscode/
